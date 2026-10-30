@@ -9,16 +9,17 @@ Productly is a simple web page where users can [add / view / edit / delete] prod
 
 
 ### ✨ What does it do?
-Displays a home page with product information.
-Lets users add products through a form.
-Uses reusable HTML templates (base.html) to keep the same layout across all pages.
-Includes Django's built-in admin panel to manage data.
+
+- Displays a home page with product information.
+- Lets users add products through a form.
+- Uses reusable HTML templates (base.html) to keep the same layout across all pages.
+- Includes Django's built-in admin panel to manage data.
 
 ### 🛠️ Tech stack
-Python 3
-Django
-HTML (Django templates)
-Pipenv for the virtual environment and dependencies
+- Python 3
+- Django
+- HTML (Django templates)
+- Pipenv for the virtual environment and dependencies
 
 
 ### 📁 Project structure
@@ -72,5 +73,6 @@ Workspace/
 
 👤 Author
 
-[Heric Perez] Student at [Regent College London] 
-🔗 [[GitHub](https://github.com/Heric127/productly)]
+- Heric Perez
+- Student at Regent College London **Expect graduation 2028**
+- 🔗 [[GitHub](https://github.com/Heric127/productly)]
