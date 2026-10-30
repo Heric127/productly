@@ -1,26 +1,29 @@
-Productly 🛒
+### Productly 🛒
 
 A basic web application built with Django to manage products. This was my Foundation Year project in 2024, one of my first experiences building a website with a backend framework.
 
-📖 About the project
+### 📖 About the project
 
 When I built this project I was just starting to code and wanted to understand how a website works "under the hood": how URLs, views, HTML templates, and the database connect to each other.
-
 Productly is a simple web page where users can [add / view / edit / delete] products using forms and a database.
 
-✨ What does it do?
+
+### ✨ What does it do?
 Displays a home page with product information.
 Lets users add products through a form.
 Uses reusable HTML templates (base.html) to keep the same layout across all pages.
 Includes Django's built-in admin panel to manage data.
 
-🛠️ Tech stack
+### 🛠️ Tech stack
 Python 3
 Django
 HTML (Django templates)
 Pipenv for the virtual environment and dependencies
 
-📁 Project structure
+
+### 📁 Project structure
+
+```
 Workspace/
 ├── productly/          # Main project configuration
 │   ├── settings.py     # Django settings
@@ -46,23 +49,25 @@ Workspace/
 ├── requirements.txt
 └── db.sqlite3
 
-🌱 What I learned
-How a Django project is organized (project vs. apps).
-The MVT pattern (Model – View – Template).
-Creating models and handling migrations.
-Setting up URLs and views.
-Using Django forms to save data.
-Reusing HTML with template inheritance ({% extends %} and {% block %}).
-Working with virtual environments and dependency files.
-Using Git to save and organize my work.
+```
 
-🔮 Future improvements
-Improve the design with CSS / Bootstrap.
-Add user authentication.
-Add product search and filters.
-Add product images.
-Write automated tests.
-Deploy the app online.
+### 🌱 What I learned
+- How a Django project is organized (project vs. apps).
+- The MVT pattern (Model – View – Template).
+- Creating models and handling migrations.
+- Setting up URLs and views.
+- Using Django forms to save data.
+- Reusing HTML with template inheritance ({% extends %} and {% block %}).
+- Working with virtual environments and dependency files.
+- Using Git to save and organize my work.
+
+### 🔮 Future improvements
+- Improve the design with CSS / Bootstrap.
+- Add user authentication.
+- Add product search and filters.
+- Add product images.
+- Write automated tests.
+- Deploy the app online.
 
 
 👤 Author
