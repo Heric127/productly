@@ -3,9 +3,9 @@
 ![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Workflow](https://img.shields.io/github/actions/workflow/status/Heric127/productly/ci.yml)
-![Issues](https://img.shields.io/github/issues/Heric127/legion-del-mal)
-![Último commit](https://img.shields.io/github/last-commit/Heric127/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/Heric127/legion-del-mal)
+![Issues](https://img.shields.io/github/issues/Heric127/productly)
+![Último commit](https://img.shields.io/github/last-commit/Heric127/productly)
+![Licencia](https://img.shields.io/github/license/Heric127/productly)
 
 
 
